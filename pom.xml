@@ -86,7 +86,7 @@
             <dependency>
                 <groupId>io.sentry</groupId>
                 <artifactId>sentry</artifactId>
-                <version>1.7.17</version>
+                <version>3.0.0</version>
             </dependency>
 
             <!-- Common -->
